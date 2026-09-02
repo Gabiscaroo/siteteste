@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Segoe UI', Arial, sans-serif;
-  background: #fff0f5;
+  background: #F5EFE5;
   color: #4a2c3a;
   min-height: 100vh;
   display: flex;
@@ -14,7 +14,7 @@ body {
 }
 
 .topo {
-  background: linear-gradient(135deg, #ff8fb3, #ff6f91);
+  background: linear-gradient(135deg, #f0d9ce, #2d79b0);
   color: #fff;
   text-align: center;
   padding: 2.5rem 1rem;
@@ -95,7 +95,7 @@ body {
 }
 
 .aba-pedidos { border-top: 6px solid #ffb3c6; }
-.aba-clientes { border-top: 6px solid #a5d8ff; }
+.aba-contato { border-top: 6px solid #a5d8ff; }
 .aba-pagamentos { border-top: 6px solid #b2f2bb; }
 
 /* Tabelas */
